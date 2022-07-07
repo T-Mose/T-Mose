@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C#, Python!
 - 💞️ I’m looking to collaborate on Competetiv Programing!
 - 📫 How to reach me: DM.
+- SvenSvensson123 at LeetCode;
 
 <!---
 T-Mose/T-Mose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
