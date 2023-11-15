@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @T-Mose
 - 👀 I’m interested in learning new things!
-- 🌱 I’m currently learning C#, Python!
+- 🌱 I’m currently learning C#, Python and Java!
 - 💞️ I’m looking to collaborate on Competetiv Programing!
 - 📫 How to reach me: DM.
 - SvenSvensson123 at LeetCode;
